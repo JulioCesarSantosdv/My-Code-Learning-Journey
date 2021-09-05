@@ -1,0 +1,16 @@
+C:\Users\Julio Cesar Santos\Review\bin\Debug\net5.0\Review.exe
+C:\Users\Julio Cesar Santos\Review\bin\Debug\net5.0\Review.deps.json
+C:\Users\Julio Cesar Santos\Review\bin\Debug\net5.0\Review.runtimeconfig.json
+C:\Users\Julio Cesar Santos\Review\bin\Debug\net5.0\Review.runtimeconfig.dev.json
+C:\Users\Julio Cesar Santos\Review\bin\Debug\net5.0\Review.dll
+C:\Users\Julio Cesar Santos\Review\bin\Debug\net5.0\ref\Review.dll
+C:\Users\Julio Cesar Santos\Review\bin\Debug\net5.0\Review.pdb
+C:\Users\Julio Cesar Santos\Review\obj\Debug\net5.0\Review.csproj.AssemblyReference.cache
+C:\Users\Julio Cesar Santos\Review\obj\Debug\net5.0\Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Cesar Santos\Review\obj\Debug\net5.0\Review.AssemblyInfoInputs.cache
+C:\Users\Julio Cesar Santos\Review\obj\Debug\net5.0\Review.AssemblyInfo.cs
+C:\Users\Julio Cesar Santos\Review\obj\Debug\net5.0\Review.csproj.CoreCompileInputs.cache
+C:\Users\Julio Cesar Santos\Review\obj\Debug\net5.0\Review.dll
+C:\Users\Julio Cesar Santos\Review\obj\Debug\net5.0\ref\Review.dll
+C:\Users\Julio Cesar Santos\Review\obj\Debug\net5.0\Review.pdb
+C:\Users\Julio Cesar Santos\Review\obj\Debug\net5.0\Review.genruntimeconfig.cache
